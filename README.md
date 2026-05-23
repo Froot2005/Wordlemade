@@ -9,4 +9,4 @@ A 4-letter Wordle clone I built while learning Python.
 - ⚪ not in word
 
 ## Run
-python wordle.py
+python wordlemade.py
